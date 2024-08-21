@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "§1 Project/Jetpack.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "§1 Project/Jetpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "§1 Project/Jetpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "§1 Project/Jetpack.md"
               }
             }
           }
@@ -178,10 +178,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a4d1003c4d79cbaf",
+  "active": "8f1c5dc7b2bf4c8f",
   "lastOpenFiles": [
-    "§3 Areas/Example-Todo.md",
     "README.md",
+    "§3 Areas/Example-Todo.md",
     "§1 Project/Jetpack.md",
     "§4 Fleeting/Fleeting/Procedural Map.md",
     "§4 Fleeting/Literature/Procedual Map.md",
