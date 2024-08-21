@@ -191,8 +191,8 @@
   );
 }
 
-/* ------------------------------- §3 Fleeting Prefix -------------------------------- */
-.nav-folder-title[data-path^="§3 Fleeting"] {
+/* ------------------------------- §4 Fleeting Prefix -------------------------------- */
+.nav-folder-title[data-path^="§4 Fleeting"] {
   color: var(--amber);
   --nav-item-color-hover: color-mix(
     in srgb,
@@ -211,14 +211,14 @@
   );
   --nav-collapse-icon-color: color-mix(in srgb, var(--amber) 60%, transparent);
 }
-.nav-folder-title[data-path^="§3 Fleeting"]:hover {
+.nav-folder-title[data-path^="§4 Fleeting"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
     var(--amber) 60%,
     var(--contrast-color)
   );
 }
-.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="§3 Fleeting"]) {
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="§4 Fleeting"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
     var(--amber) var(--medium-contrast-amount),
@@ -226,7 +226,7 @@
   );
 }
 .tree-item-children
-  .nav-folder:has(.nav-folder-title[data-path^="§3 Fleeting"])
+  .nav-folder:has(.nav-folder-title[data-path^="§4 Fleeting"])
   .nav-file-title {
   color: color-mix(
     in srgb,
@@ -312,7 +312,7 @@
 }
 
 /* ------------------------------- § ARCHIVES Prefix -------------------------------- */
-.nav-folder-title[data-path^="§4 Archives"] {
+.nav-folder-title[data-path^="§5 Archives"] {
   color: var(--cool-gray);
   --nav-item-color-hover: color-mix(
     in srgb,
@@ -331,14 +331,14 @@
   );
   --nav-collapse-icon-color: color-mix(in srgb, var(--cool-gray) 60%, transparent);
 }
-.nav-folder-title[data-path^="§4 Archives"]:hover {
+.nav-folder-title[data-path^="§5 Archives"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
     var(--cool-gray) 60%,
     var(--contrast-color)
   );
 }
-.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="§4 Archives"]) {
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="§5 Archives"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
     var(--cool-gray) var(--medium-contrast-amount),
@@ -346,7 +346,7 @@
   );
 }
 .tree-item-children
-  .nav-folder:has(.nav-folder-title[data-path^="§4 Archives"])
+  .nav-folder:has(.nav-folder-title[data-path^="§5 Archives"])
   .nav-file-title {
   color: color-mix(
     in srgb,
