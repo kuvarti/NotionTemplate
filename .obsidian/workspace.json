@@ -11,43 +11,8 @@
             "id": "a4d1003c4d79cbaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "§1 Project/Jetpack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1475835de367872",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "§3 Areas/Example-Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "64e30e144899c731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "§1 Project/Jetpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "§1 Project/Jetpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "§1 Project/Jetpack.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,11 +139,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8f1c5dc7b2bf4c8f",
+  "active": "a4d1003c4d79cbaf",
   "lastOpenFiles": [
     "README.md",
-    "§3 Areas/Example-Todo.md",
     "§1 Project/Jetpack.md",
+    "§3 Areas/Example-Todo.md",
     "§4 Fleeting/Fleeting/Procedural Map.md",
     "§4 Fleeting/Literature/Procedual Map.md",
     "§2 Resources/Swimming System.md",
